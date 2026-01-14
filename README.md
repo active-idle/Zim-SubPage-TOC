@@ -1,7 +1,7 @@
 # Zim Wiki SubPage TOC Plugin
 A Zim Desktop Wiki plugin that generates hierarchical table of contents for subpages at the cursor position.
 
-![Example](./image01.png)
+![Example](./Example.png)
 
 ## Features
 - Automatic TOC Generation: Creates a formatted table of contents for all subpages under the current page
